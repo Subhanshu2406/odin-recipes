@@ -1,0 +1,16 @@
+.subheading{
+    font-size: 40px;
+    padding: 30px;
+    margin: 20px;
+    color: rgb(255, 0, 13);
+}
+
+.Main-heading{
+color: rgba(128, 80, 9, 0.452);
+box-sizing: border-box;
+padding: 50px;
+margin: 50px;
+text-align: center;
+font-size: 100px;
+font-style: italic;
+}
